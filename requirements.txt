@@ -1,0 +1,6 @@
+qrcode[pil]>=8.0
+opencv-python>=4.10
+python-barcode[images]>=0.15.1
+# Optional (only if you want barcode decoding):
+pyzbar>=0.1.9
+Pillow>=12.0.0
